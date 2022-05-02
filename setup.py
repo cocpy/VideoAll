@@ -5,7 +5,7 @@ with open('README.md', 'r', encoding='utf-8') as fh:
 
 setuptools.setup(
     name='videoall',
-    version='0.0.1',
+    version='0.0.5',
     author='C灵C',
     author_email='c0c@cocpy.com',
     description='All video download',

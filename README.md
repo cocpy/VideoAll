@@ -20,7 +20,7 @@
         "savedir": "download"
     }
     
-    video_client = videoall.videodl(config=config)
+    video_client = videoall(config=config)
     
     video_path = 'the video path'
     
